@@ -10,7 +10,11 @@ This repository contains the source code for the simulation. It is designed to e
 ## Deployment
 
  1. Download this repository.
- 2. Download and install Unity:
+ 2. Unzip the following file:
+ ```
+ Project/Library/ArtifactDB.zip
+ ```
+ 4. Download and install Unity:
  ```
  https://unity3d.com/fr/get-unity/download
  ```
